@@ -1,0 +1,32 @@
+<IDOCTYPE html>
+<html>
+ <head>
+    <title class='TestBlack'>Важные или нет новости</title>
+    <meta charset="utf-8" />
+    <link rel='stylesheet' type='text/css' href="style.css">
+    <link rel='shortcut icon' type='images/x-icon' href="images/favicon.png">
+ </head>
+  <body class='style'>
+   <main>
+    <h1><em>
+       Не будь пaпайей: репортаж из Колумбии.
+    </em></h1>
+      <!-- Интересный факт,чтобы пересмотреть все видео на YouTube, понадобится 1000 лет. -->
+  <div class="headBlock">
+     <p>1 блок</p>
+  </div>
+  <article>
+    
+  </article>
+  <aside>
+
+  </aside>
+  </div>
+      
+  <div class='footer'>
+
+  </div>
+  </main>
+  </body>
+
+  </html>.
